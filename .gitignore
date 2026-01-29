@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Datasets (too large for GitHub)
+dataset/Cresci2015/
+*.csv
+*.zip
